@@ -1,15 +1,13 @@
-# Titanic Data Preprocessing
+# Data Preprocessing
 
-## Task 1 - AI & ML Internship
-
-### Steps Performed:
+# Steps Performed:
 - Data loading and exploration
 - Handling missing values
 - Encoding categorical variables
 - Feature scaling
 - Outlier detection and removal
 
-### Tools Used:
+# Tools Used:
 - Python
 - Pandas
 - NumPy
@@ -17,6 +15,6 @@
 - Seaborn
 - Scikit-learn
 
-### Dataset:
+# Dataset:
 Titanic Dataset (Kaggle)
 Dataset-link: https://www.kaggle.com/datasets/yasserh/titanic-dataset
